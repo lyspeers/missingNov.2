@@ -16,6 +16,7 @@ public class main {
                 System.out.println(numArray[count]);
                 count = numArray[count]+1;
                 System.out.println(missingNo + " is the missing number");
+                break;
             }
 
         }
